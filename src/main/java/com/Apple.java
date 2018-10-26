@@ -5,5 +5,6 @@ public class Apple {
 		System.out.println("Number----------------");
 		System.out.println("String");
 		System.out.println("String");
+		System.out.println("String----------------");
 	}
 }
